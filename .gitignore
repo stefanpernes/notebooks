@@ -2,6 +2,8 @@
 *~
 .DS_Store
 germanet.py
+sompy.py
+coordinates.txt
 .idea
 .ipynb_checkpoints
 cached_data
